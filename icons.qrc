@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/electrocardiogram.ico</file>
+    </qresource>
+</RCC>
